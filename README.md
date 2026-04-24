@@ -1,4 +1,4 @@
 # demo
 this is my first git repo
 <br>
-Auther - Prajakta kinare
+Auther - Prajakta kinare (hello)
